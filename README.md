@@ -1,2 +1,3 @@
-# lyli
-Lightweight Yet Limitless Intelligence (Code center)
+# Lyli
+
+Transition to the upcoming world.
